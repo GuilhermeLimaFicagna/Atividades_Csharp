@@ -2,9 +2,9 @@
 
 <p>
     <img
-        align="left"
         title="CSHARP"
-        width=31px
+        width=33px
+        style="vertical-align: middle; margin-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
     />
 </p>

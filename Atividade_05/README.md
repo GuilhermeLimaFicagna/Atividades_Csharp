@@ -1,4 +1,4 @@
-# Atividades de Python
+# Atividades de C#
 
 <p>
     <img
@@ -13,4 +13,7 @@
 
 *`Feito na IDE Microsoft Visual Studio`*
 
+*`aplicativo em Windows Forms para cadastrar nomes de alunos e suas respectivas notas,
+armazená-los em arrays e exibir relatórios simples com base nos dados inseridos.`*
 ---
+
